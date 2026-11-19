@@ -32,5 +32,9 @@ I translate operational experience in **quality assurance, insurance administrat
 
 ---
 
-### 💡 How I Approach Data
-> *"Good analysis starts with clean, trustworthy data and a clear business question—turning raw numbers into decisions teams can actually act on."*
+### ⚡ How I Approach Data
+> *"Clean data first, clear insights second, measurable impact always."*
+
+
+### 🍄‍🟫 How I Approach Life
+> *"Built on discipline, driven by curiosity, and committed to getting 1% better every day."*
