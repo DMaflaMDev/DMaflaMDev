@@ -5,6 +5,7 @@
 I translate operational experience in **quality assurance, insurance administration, and logistics** into clear, data-driven business insights. I focus on data integrity, KPI tracking, exploratory analysis, and predictive/statistical modeling to support confident decision-making.
 
 🎓 **Google Data Analytics** & **Google Advanced Data Analytics** Certificates
+
 📫 Reach me at: **daniela.mafla.dev@gmail.com** 
 
 ---
